@@ -33,9 +33,11 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     #Mis apps
     'core',
+    'user',
 
     #Otras
     'rest_framework',
+    'rest_framework.authtoken',
     'drf_spectacular',
 
     #Django apps
