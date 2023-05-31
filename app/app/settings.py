@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     #Mis apps
     'core',
     'user',
+    'recipe',
 
     #Otras
     'rest_framework',
